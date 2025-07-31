@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a developer with a passion for building web, mobile, IoT, and robotics solutions.  
 💡 I love exploring new technologies and solving real-world problems with code.  
-💼 Currently working as: Web & IoT Developer at PT. Ghimli Indonesia  
+💼 Currently im working as: Web & IoT Developer at PT. Ghimli Indonesia  
 🔬 Right now I'm learning React, React Native, ASP.NET & C# .
 ---
 
