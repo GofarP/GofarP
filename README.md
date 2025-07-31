@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Gofar Putra Perdana!
+## 👋 Hi, I'm Gofar Putra Perdana!
 
 👨‍💻 I'm a developer with a passion for building web, mobile, IoT, and robotics solutions.  
 💡 I like to create a system that can communicate with each other using API  
-💼 Currently im working as: Web & IoT Developer at PT. Ghimli Indonesia  
-🔬 Right now I'm learning React, React Native, ASP.NET & C# .
+💼 Currently I'm working as: Web & IoT Developer at PT. Ghimli Indonesia  
+🔬 Right now I'm learning React, React Native, ASP.NET & C#.
+
 ---
 <br>
 
