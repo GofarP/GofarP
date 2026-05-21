@@ -2,8 +2,8 @@
 
 👨‍💻 I'm a developer with a passion for building web, mobile, IoT, and robotics solutions.  
 💡 I like to create systems that can communicate with each other using APIs.  
-💼 Currently working as Web & IoT Developer at PT. Ghimli Indonesia  
-🔬 Currently learning: React Native.
+💼 Currently Looking for job either as Web developer, Mobile Developer,IOT Developer, or similiar roles  
+🔬 Currently learning: Android Jetpack compose.
 
 ---
 
